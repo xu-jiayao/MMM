@@ -14,9 +14,10 @@ The reference of this paper is following:
 }
 ```
 
-## Correction:
+<!--- ## Correction:
 
 After conducting a comprehensive review of our published work, we have identified a typographical error in our reference to the measurement matrix. In the paper, we mistakenly labeled the matrix as the 'Hadamard matrix'; however, the correct term is the 'Walsh matrix'. (in Section 1, Page 3, first paragraph; Section 3. 1, Page 4, first paragraph) 
 In order to ensure the rigor of the paper, we are releasing the code for this paper along with a correction statement.
 
 Thank you for your reading and understanding.
+-->
